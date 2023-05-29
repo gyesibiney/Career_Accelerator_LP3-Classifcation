@@ -1,0 +1,52 @@
+## Title: Maximizing Customer Retention: A Churn Prediction Analysis The for Vodafone Group
+
+# Project description
+Customer attrition is a prevalent problem for many businesses, resulting in large financial losses. We intend to investigate customer churn or attrition in this project, which refers to the percentage of consumers that discontinue using a company's product or service within a specified time frame. Understanding the primary causes of customer churn can assist businesses in developing effective retention strategies to reduce customer attrition and boost revenue.
+
+This project's dataset includes information about users' demographics, service usage, and billing information. We will use this dataset to conduct an exploratory data analysis in order to find patterns and trends linked to customer attrition. We will next use machine learning techniques to create a predictive model that will estimate the likelihood of a customer leaving the firm.
+
+## objectives :
+
+1.Investigate and display the data to uncover patterns and trends in customer attrition.
+
+2.Using machine learning methods, create a predictive model to forecast the possibility of client attrition.
+
+3.Determine the major churn indicators, such as client demographics, service usage, and billing information.
+
+4.Create retention techniques to assist reduce client turnover while increasing customer loyalty.
+
+5.Based on the model's results, assess the success of retention efforts and make recommendations for changes.
+
+The project's outcome will provide valuable insights for Vodafone to understand customer churn and implement effective retention strategies to reduce customer attrition and increase revenue.
+
+## Hypothesis
+Null hypothesis :
+Gender has a significant impact on churn for vodafone customers.
+
+Alternative hypothesis :
+Gender doesnot have a significant impact on churn for vodafone customers
+
+## Questions
+1. Which age group (Senior Citizen Column) paid the highest monthly charges?
+- It was observed that non-senior citizens spend more money  (interms of total charges) than senior citizens.
+
+2. Which gender has the highest count of churn ?
+- Females tend to churn more than males.
+
+3. Which Internet Service is patronized the most?
+- Fiber Options was the most patronized Internet Service.
+
+4. How much total charge and monthly charge revenue does churners generate?
+- From the analysis, it can be inferred that  customers that churned, generated a whooping $139130 in monthly charges and $2,862,927 in total charges. This means Vodafone Group is losing $139130 monthly and a total of $2,862,927 due to Churns.
+
+5. Which payment method is the most popular?
+- We can see that electronic Check is the most popular payment method.
+
+# HYPOTHESIS TESTING
+- From the phi_k correlation matrix, it was observed that Gender had a zero correlation to our tender value(churn). Hence, null hypotheis is rejected.
+
+## CONCLUSION
+The RandomizedSearchCV was used in the hyperparameter tuning. It was observe that logistic regression was the best model and had an optimized paramters;
+
+Best Parameters: {'model__solver': 'sag', 'model__random_state': 24, 'model__penalty': 'l2', 'model__max_iter': 3000, 'model__intercept_scaling': 4, 'model__C': 0.08858667904100823}
+Best Parameters: 0.7436930753458229
