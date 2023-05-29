@@ -69,5 +69,5 @@ carefully.
 You can run this command bellow being at the root of the repository to be sure your solutions are the good ones before to push your solutions.
 ```command
 
-# AUTHOR
+## AUTHOR
 # DAVID GYESI BINEY
