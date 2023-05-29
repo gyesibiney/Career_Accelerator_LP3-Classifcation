@@ -5,7 +5,7 @@ Building Accurate Models for Unit Sales Prediction in Favorita Stores using Time
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP 2 | Building Accurate Models for Unit Sales Prediction in Favorita Stores using Time Series Forecasting.  |  [Best article of](https://github.com/gyesibiney/Career_Accelerator_LP3-Classifcation?organization=gyesibiney&organization=gyesibiney) | [Best app of the world](https://medium.com/@david.biney/a-churn-prediction-analysis-for-vodafone-group-bc096aa2131b) |
+| LP 3 | Maximizing Customer Retention: A Churn Prediction Analysis The for Vodafone Group.  |  [Best article of](https://github.com/gyesibiney/Career_Accelerator_LP3-Classifcation?organization=gyesibiney&organization=gyesibiney) | [Best app of the world](https://medium.com/@david.biney/a-churn-prediction-analysis-for-vodafone-group-bc096aa2131b) |
 
 ## Project Description
 # Business understanding
@@ -62,8 +62,9 @@ The both long command-lines have a same structure, they pipe multiple commands u
 4. **Install the required libraries/packages** listed in the `requirements.txt` file so that it will be allow to import them into the python's scripts and notebooks without any issue.
 
 ## App Execution
-...This evaluation will be automatically grade, so please follow the instructions carefully. 
+...This evaluation will be automatically grade, so please follow the instructions 
 
+carefully. 
 You can run this command bellow being at the root of the repository to be sure your solutions are the good ones before to push your solutions.
 ```command
 
