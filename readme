@@ -43,7 +43,7 @@ Gender doesnot have a significant impact on churn for vodafone customers
 - We can see that electronic Check is the most popular payment method.
 
 # HYPOTHESIS TESTING
-- The ANOVA results for the 'gender' variable show that there is no significant difference in the mean 'Churn' values across the different genders. This is because the p-value (0.931595) is greater than the commonly used significance level of 0.05. Therefore, we fail to reject the null hypothesis, which suggests that the means of 'Churn' across gender groups are equal. The small F-statistic further supports this conclusion.
+- The ANOVA results for the 'gender' variable show that there is no significant difference in the mean 'Churn' values across the different genders. This is because the p-value (0.931595) is greater than the commonly used significance level of 0.05. Therefore, there is no significance between churners and gender. The small F-statistic further supports this conclusion.
 
 ## CONCLUSION
 The RandomizedSearchCV was used in the hyperparameter tuning. It was observe that logistic regression was the best model and had an optimized paramters;
