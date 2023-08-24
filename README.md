@@ -5,7 +5,7 @@ Building Accurate Models for Unit Sales Prediction in Favorita Stores using Time
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP 3 | Maximizing Customer Retention: A Churn Prediction Analysis The for Vodafone Group.  |  [Best article of] (https://medium.com/@david.biney/a-churn-prediction-analysis-for-vodafone-group-bc096aa2131b).|  [Best app of the world] (https://github.com/gyesibiney/Career_Accelerator_LP3-Classifcation?organization=gyesibiney&organization=gyesibiney).|
+| LP 3 | Maximizing Customer Retention: A Churn Prediction Analysis The for Vodafone Group.  |  (https://medium.com/@david.biney/a-churn-prediction-analysis-for-vodafone-group-bc096aa2131b).| (https://github.com/gyesibiney/Career_Accelerator_LP3-Classifcation?organization=gyesibiney&organization=gyesibiney).|
 
 
 ## Project Description
